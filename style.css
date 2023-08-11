@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    height: 100vh;
+    background-image: url('./bicycle-1834265_1280.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.myheight{
+    height: 100vh;
+    font-size: 2rem;
+}
+.myheight1{
+    height: 80vh;
+    background-image: url('./san-francisco-6950830_1280.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.myheight2{
+    height: 80vh;
+}
